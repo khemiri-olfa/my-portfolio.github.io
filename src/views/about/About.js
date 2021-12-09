@@ -38,7 +38,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/khemiri-olfa" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>

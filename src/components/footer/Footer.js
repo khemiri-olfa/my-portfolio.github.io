@@ -4,7 +4,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <div>
-      <div className="py-2 text-center footer-style">Made with ❤️ by Khemiri Olfa ©️&nbsp; {new Date().getFullYear()}</div>
+      <div className="py-2 text-center footer-style">Made with <span role="img" aria-labelledby="love">❤️ </span>by Khemiri Olfa ©️&nbsp; {new Date().getFullYear()}</div>
     </div>
   );
 };

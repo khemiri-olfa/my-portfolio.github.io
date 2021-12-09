@@ -34,7 +34,7 @@ const TitleMessage = () => (
             Hi, I am
             <br />
             <span>
-              <strong>Khemiri Olfa👋</strong>
+              <strong>Khemiri Olfa <span role="img" aria-labelledby="hello">👋</span></strong>
 
             </span>
           </div>

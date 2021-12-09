@@ -7,7 +7,6 @@ import L_REDUX from "../../assets/img/skills/redux.svg";
 import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
 import L_REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
-import L_HEROKU from "../../assets/img/skills/heroku.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_NETLIFY from "../../assets/img/skills/netlify-icon.svg"
